@@ -10,7 +10,8 @@ function Form(props) {
                         <input name="search"
                             class="form-control me-2"
                             type="search" placeholder="Search"
-                            value={props.search} onChange={props.handleInputChange} />
+                            value={props.search} onChange={props.handleInputChange}
+                            containerStyle = {{ align:'center', justifyConttent:'center'}} />
                     </form>
                 </div>
             </nav>

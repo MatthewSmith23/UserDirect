@@ -6,7 +6,7 @@ function Header() {
         <div>
             <header>
                 <h1>UserDirectory</h1>
-                <p></p>
+                <p>Search button narrows down the results to find who you are looking for.</p>
             </header>
         </div>
     )
